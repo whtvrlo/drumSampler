@@ -1,0 +1,47 @@
+.sp303 {
+  display: flex;
+  justify-content: center;
+  background-color: rgba(255, 99, 71, 0);
+  width: 40vw;
+  padding-left: 28%;
+}
+
+h2 img {
+  padding-top: 2mm;
+  padding-left: 6rem;
+  width: 15rem;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: crimson;
+  display: flex-start;
+  justify-content: center;
+}
+
+button {
+  font-family: 'Press Start 2P', cursive;
+  width: 8%;
+  height: 2.8rem;
+  border: line;
+  padding: 14px 28px;
+  font-size: 10px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 3px;
+  color: rgb(0, 0, 0);
+  background-color: whitesmoke;
+  text-shadow: 1px 0 0 rgb(255, 255, 255), 0 -1px 0 rgb(201, 201, 201),
+    0 1px 0 rgb(255, 243, 243), -1px 0 0 rgb(255, 255, 255);
+}
+
+
+
+
+
+.hidden {
+  display: none;
+}
+
+
